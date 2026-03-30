@@ -1,0 +1,15 @@
+{
+  "description": "LaoEats website",
+  "domain": "is-cool.dev",
+  "subdomain": "laoeats",
+  "owner": {
+    "email": "sengphet8130@email.com"
+  },
+  "record": {
+    "NS": [
+            "ns1.vercel-dns.com",
+            "ns2.vercel-dns.com"
+        ]
+  },
+  "proxied": false
+}
